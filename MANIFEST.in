@@ -1,0 +1,5 @@
+include LICENSE
+include README.md
+include LICENSE.txt
+recursive-include contact/templates *
+recursive-include contact/locale *
