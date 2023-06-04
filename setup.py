@@ -26,7 +26,7 @@ setup(
     ],
     package_dir={'': 'src'},
     packages=find_packages(where='src'),
-    python_requires='>=3.5.*, <4',
+    python_requires='>=3.5, <4',
     install_requires=['Django', 'Pillow'],
     project_urls={
         'Bug Reports': 'https://github.com/adlh/django-adlh-utils',
